@@ -114,17 +114,3 @@ None found so far. The project that resembles git stats most is disquss tool.
 
 Add pull requests to improve Git stats where it can be improved.
 
-
-<!-- CONTACT -->
-## Contact
-
-Hizkyas Tekele:
-* Github: [https://github.com/Doro-000](https://github.com/Doro-000)
-* Linkedin: [(http://www.linkedin.com/in/Hizkyas-T-Aberra](http://www.linkedin.com/in/Hizkyas-T-Aberra)
-<br />
-
-Philimon Derib:
-* Github: [https://github.com/philimon-reset](https://github.com/philimon-reset)
-* Linkedin: [https://www.linkedin.com/in/philimon-derib/](https://www.linkedin.com/in/philimon-derib/)
-
-Project Link: [https://github.com/philimon-reset/Git-Stats](https://github.com/philimon-reset/Git-Stats)
